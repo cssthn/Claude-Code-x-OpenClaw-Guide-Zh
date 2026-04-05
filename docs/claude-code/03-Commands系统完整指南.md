@@ -1690,6 +1690,7 @@ allowed-tools:
 
 ### 步骤2：读取文件
 使用Read工具读取文件内容：
+
 ```
 Read("$ARGUMENTS")
 ```
